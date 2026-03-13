@@ -1,2 +1,2 @@
 # Programming fundamentals
-My BSc Computer Science programming exercises
+Curated CS resources, code snippets, and academic projects
